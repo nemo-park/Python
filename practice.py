@@ -1,1 +1,11 @@
 print(5)
+print(-10)
+print(3.14)
+print(920212)
+print(5+3)
+print(5*2)
+print(3*(3+1))
+
+print("크리스마스")
+print('선물')
+print("*"*10)
