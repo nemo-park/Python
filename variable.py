@@ -9,7 +9,10 @@ is_adult = age >= 3
 print("우리집 " + animal + "의 이름은 " + name + "에요")
 hobby = "낮잠"
 # print(name + "는 " + str(age) + "살이며, " + hobby + "을 아주 좋아해요")
-# 쉼표(,)로 여러 문장을 합칠 수 있고 정수형/Boolean 변수를 그대로 쓸 수 있지만 빈칸이 한칸 들어가게 됨
+''' 쉼표(,)로 여러 문장을 합칠 수 있고 
+    정수형/Boolean 변수를 그대로 쓸 수 있지만 
+    빈칸이 한칸 들어가게 됨 '''
+# 일괄 주석처리 : 여러줄 선택 후, Ctrl + / , 해제는 동일하게 한번 더
 print(name, "는 ", age, "살이며, ", hobby, "을 아주 좋아해요")
 print(name + "는 어른일까요? " + str(is_adult))
 
